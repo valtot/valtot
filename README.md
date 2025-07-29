@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Valentino 👋
 
-<!--
-**valtot/valtot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Neuroscience PhD student passionate about data analysis and behavior. 
 
-Here are some ideas to get you started:
+## 🔬 Research Interests
+- Neural plasticity and behavior  
+- Computational approaches in neuroscience
+- Brain imaging and analysis  
+- Machine learning applications in neuroscience  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- Python | MATLAB
+- Data analysis & visualization  
+- Designing low-budget setups for mouse behavior experiments
+
+## 📂 Projects
+- [PNN Atlas](https://github.com/LeonardoLupori/wholeBrain_PNN_analysis) — Characterization of the organizing principles of perineuronal nets in the adult mouse brain  
+- [Brain Alignment](https://github.com/LeonardoLupori/brainAlignment) — MATLAB pipeline to align brain slices to the Allen Brain Atlas template
+- [CounTastic](https://github.com/valtot/CounTastic) — MATLAB-based GUI for cell counting
+
+## 📫 Get in touch
+- [LinkedIn](www.linkedin.com/in/valentino-totaro)  
+- [Email](mailto:valentino.totaro@sns.it)
