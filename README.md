@@ -19,5 +19,5 @@ I’m a Neuroscience PhD student passionate about data analysis and behavior.
 - [CounTastic](https://github.com/valtot/CounTastic) — MATLAB-based GUI for cell counting
 
 ## 📫 Get in touch
-- [LinkedIn](www.linkedin.com/in/valentino-totaro)  
+- [LinkedIn](https://www.linkedin.com/in/valentino-totaro)  
 - [Email](mailto:valentino.totaro@sns.it)
