@@ -12,6 +12,7 @@ I’m a Neuroscience PhD student passionate about data analysis and behavior.
 - Python | MATLAB
 - Data analysis & visualization  
 - Designing low-budget setups for mouse behavior experiments
+- Basic experience in coding in HPC environments
 
 ## 📂 Projects
 - [PNN Atlas](https://github.com/LeonardoLupori/wholeBrain_PNN_analysis) — Characterization of the organizing principles of perineuronal nets in the adult mouse brain  
