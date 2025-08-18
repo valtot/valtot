@@ -18,6 +18,7 @@ I’m a Neuroscience PhD student passionate about data analysis and behavior.
 - [PNN Atlas](https://github.com/LeonardoLupori/wholeBrain_PNN_analysis) — Characterization of the organizing principles of perineuronal nets in the adult mouse brain  
 - [Brain Alignment](https://github.com/LeonardoLupori/brainAlignment) — MATLAB pipeline to align brain slices to the Allen Brain Atlas template
 - [CounTastic](https://github.com/valtot/CounTastic) — MATLAB-based GUI for cell counting
+- [DLC_HPC](https://github.com/valtot/DLC_HPC) — Code to run DLC in HPC environment (under developement)
 
 ## 📫 Get in touch
 - [LinkedIn](https://www.linkedin.com/in/valentino-totaro)  
